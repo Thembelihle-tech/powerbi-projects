@@ -29,7 +29,7 @@ Key questions explored include:
 > Career happiness varies by role, with specialized and senior roles reporting higher satisfaction.
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Data Professional Survey Breakdown.png)
 
 ## Files in this Repository
 - GlobalDataSurvey.pbix – Power BI report
